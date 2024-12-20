@@ -2,8 +2,8 @@
 // DB接続情報
 $host = 'mysql3104.db.sakura.ne.jp';
 $dbname = 'takanag_db_gensen';
-$username = 'takanag_db_gensen';
-$password = '9628Taka';
+$username = '';
+$password = '';
 
 try {
     // PDO接続を作成
